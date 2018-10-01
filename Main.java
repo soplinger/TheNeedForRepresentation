@@ -36,8 +36,8 @@ public class Main {
             else{
                 userOutput = Character.toString(out);
             }
-            rand1++;
             System.out.print(userOutput);
+            rand1++;
         }
 
 
